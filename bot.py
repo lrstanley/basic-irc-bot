@@ -2,6 +2,8 @@
 """
     Very basic Python IRC Bot
     Has flaws. Beware!
+    Copyright (c) Liam Stanley 2014
+    License: https://liamstanley.io/basic-irc-bot.git
 """
 import socket
 import os
